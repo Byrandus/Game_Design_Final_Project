@@ -1917,6 +1917,9 @@ TextureImporter:
     21303820: roguelikeSheet_transparent_1910
     21303822: roguelikeSheet_transparent_1911
     21303824: roguelikeSheet_transparent_1912
+    21303826: roguelikeSheet_transparent_1913
+    21303828: roguelikeSheet_transparent_1914
+    21303830: roguelikeSheet_transparent_1915
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -7764,8 +7767,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_412
       rect:
         serializedVersion: 2
-        x: 832
-        y: 414
+        x: 833
+        y: 408
         width: 16
         height: 16
       alignment: 9
@@ -7862,8 +7865,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_419
       rect:
         serializedVersion: 2
-        x: 944
-        y: 414
+        x: 952
+        y: 410
         width: 16
         height: 16
       alignment: 9
@@ -8590,8 +8593,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_471
       rect:
         serializedVersion: 2
-        x: 816
-        y: 398
+        x: 952
+        y: 397
         width: 16
         height: 16
       alignment: 9
@@ -8604,8 +8607,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_472
       rect:
         serializedVersion: 2
-        x: 832
-        y: 398
+        x: 804
+        y: 401
         width: 16
         height: 16
       alignment: 9
@@ -8618,8 +8621,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_473
       rect:
         serializedVersion: 2
-        x: 848
-        y: 398
+        x: 795
+        y: 402
         width: 16
         height: 16
       alignment: 9
@@ -8632,8 +8635,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_474
       rect:
         serializedVersion: 2
-        x: 864
-        y: 398
+        x: 850
+        y: 408
         width: 16
         height: 16
       alignment: 9
@@ -8828,8 +8831,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_488
       rect:
         serializedVersion: 2
-        x: 135
-        y: 376
+        x: 15
+        y: 323
         width: 16
         height: 16
       alignment: 9
@@ -9402,7 +9405,7 @@ TextureImporter:
       name: roguelikeSheet_transparent_529
       rect:
         serializedVersion: 2
-        x: 800
+        x: 897
         y: 382
         width: 16
         height: 16
@@ -9416,8 +9419,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_530
       rect:
         serializedVersion: 2
-        x: 816
-        y: 382
+        x: 952
+        y: 385
         width: 16
         height: 16
       alignment: 9
@@ -9430,8 +9433,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_531
       rect:
         serializedVersion: 2
-        x: 832
-        y: 382
+        x: 833
+        y: 391
         width: 16
         height: 16
       alignment: 9
@@ -9444,8 +9447,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_532
       rect:
         serializedVersion: 2
-        x: 848
-        y: 382
+        x: 952
+        y: 385
         width: 16
         height: 16
       alignment: 9
@@ -9458,8 +9461,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_533
       rect:
         serializedVersion: 2
-        x: 864
-        y: 382
+        x: 952
+        y: 384
         width: 16
         height: 16
       alignment: 9
@@ -9472,8 +9475,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_534
       rect:
         serializedVersion: 2
-        x: 880
-        y: 382
+        x: 879
+        y: 371
         width: 16
         height: 16
       alignment: 9
@@ -9486,8 +9489,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_535
       rect:
         serializedVersion: 2
-        x: 896
-        y: 382
+        x: 952
+        y: 374
         width: 16
         height: 16
       alignment: 9
@@ -9514,7 +9517,7 @@ TextureImporter:
       name: roguelikeSheet_transparent_537
       rect:
         serializedVersion: 2
-        x: 928
+        x: 952
         y: 382
         width: 16
         height: 16
@@ -9528,8 +9531,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_538
       rect:
         serializedVersion: 2
-        x: 944
-        y: 382
+        x: 952
+        y: 385
         width: 16
         height: 16
       alignment: 9
@@ -9612,8 +9615,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_544
       rect:
         serializedVersion: 2
-        x: 80
-        y: 366
+        x: 85
+        y: 357
         width: 16
         height: 16
       alignment: 9
@@ -9626,8 +9629,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_545
       rect:
         serializedVersion: 2
-        x: 96
-        y: 366
+        x: 102
+        y: 340
         width: 16
         height: 16
       alignment: 9
@@ -9640,9 +9643,9 @@ TextureImporter:
       name: roguelikeSheet_transparent_546
       rect:
         serializedVersion: 2
-        x: 112
-        y: 366
-        width: 16
+        x: 120
+        y: 357
+        width: 15
         height: 16
       alignment: 9
       pivot: {x: 0, y: 1}
@@ -9654,8 +9657,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_547
       rect:
         serializedVersion: 2
-        x: 128
-        y: 366
+        x: 11
+        y: 323
         width: 16
         height: 16
       alignment: 9
@@ -9668,8 +9671,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_548
       rect:
         serializedVersion: 2
-        x: 144
-        y: 366
+        x: 153
+        y: 356
         width: 16
         height: 16
       alignment: 9
@@ -10270,8 +10273,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_591
       rect:
         serializedVersion: 2
-        x: 848
-        y: 366
+        x: 850
+        y: 374
         width: 16
         height: 16
       alignment: 9
@@ -10284,8 +10287,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_592
       rect:
         serializedVersion: 2
-        x: 864
-        y: 366
+        x: 850
+        y: 391
         width: 16
         height: 16
       alignment: 9
@@ -10298,8 +10301,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_593
       rect:
         serializedVersion: 2
-        x: 880
-        y: 366
+        x: 952
+        y: 384
         width: 16
         height: 16
       alignment: 9
@@ -10340,8 +10343,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_596
       rect:
         serializedVersion: 2
-        x: 928
-        y: 366
+        x: 920
+        y: 363
         width: 16
         height: 16
       alignment: 9
@@ -10354,7 +10357,7 @@ TextureImporter:
       name: roguelikeSheet_transparent_597
       rect:
         serializedVersion: 2
-        x: 944
+        x: 952
         y: 366
         width: 16
         height: 16
@@ -10424,9 +10427,9 @@ TextureImporter:
       name: roguelikeSheet_transparent_602
       rect:
         serializedVersion: 2
-        x: 64
-        y: 350
-        width: 16
+        x: 68
+        y: 340
+        width: 15
         height: 16
       alignment: 9
       pivot: {x: 0, y: 1}
@@ -10438,8 +10441,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_603
       rect:
         serializedVersion: 2
-        x: 80
-        y: 350
+        x: 85
+        y: 340
         width: 16
         height: 16
       alignment: 9
@@ -10452,8 +10455,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_604
       rect:
         serializedVersion: 2
-        x: 96
-        y: 350
+        x: 102
+        y: 357
         width: 16
         height: 16
       alignment: 9
@@ -10466,8 +10469,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_605
       rect:
         serializedVersion: 2
-        x: 112
-        y: 350
+        x: 120
+        y: 340
         width: 16
         height: 16
       alignment: 9
@@ -10480,8 +10483,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_606
       rect:
         serializedVersion: 2
-        x: 128
-        y: 350
+        x: 136
+        y: 357
         width: 16
         height: 16
       alignment: 9
@@ -10494,8 +10497,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_607
       rect:
         serializedVersion: 2
-        x: 144
-        y: 350
+        x: 153
+        y: 340
         width: 16
         height: 16
       alignment: 9
@@ -11096,10 +11099,10 @@ TextureImporter:
       name: roguelikeSheet_transparent_650
       rect:
         serializedVersion: 2
-        x: 832
-        y: 350
-        width: 16
-        height: 16
+        x: 838
+        y: 360
+        width: 7
+        height: 6
       alignment: 9
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -11110,8 +11113,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_651
       rect:
         serializedVersion: 2
-        x: 848
-        y: 350
+        x: 952
+        y: 369
         width: 16
         height: 16
       alignment: 9
@@ -11124,8 +11127,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_652
       rect:
         serializedVersion: 2
-        x: 864
-        y: 350
+        x: 867
+        y: 356
         width: 16
         height: 16
       alignment: 9
@@ -11138,8 +11141,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_653
       rect:
         serializedVersion: 2
-        x: 880
-        y: 350
+        x: 883
+        y: 354
         width: 16
         height: 16
       alignment: 9
@@ -11180,8 +11183,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_656
       rect:
         serializedVersion: 2
-        x: 928
-        y: 350
+        x: 952
+        y: 356
         width: 16
         height: 16
       alignment: 9
@@ -11194,7 +11197,7 @@ TextureImporter:
       name: roguelikeSheet_transparent_657
       rect:
         serializedVersion: 2
-        x: 944
+        x: 952
         y: 350
         width: 16
         height: 16
@@ -11222,8 +11225,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_659
       rect:
         serializedVersion: 2
-        x: 17
-        y: 323
+        x: 136
+        y: 340
         width: 16
         height: 16
       alignment: 9
@@ -11278,8 +11281,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_663
       rect:
         serializedVersion: 2
-        x: 80
-        y: 334
+        x: 102
+        y: 289
         width: 16
         height: 16
       alignment: 9
@@ -11292,8 +11295,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_664
       rect:
         serializedVersion: 2
-        x: 96
-        y: 334
+        x: 85
+        y: 323
         width: 16
         height: 16
       alignment: 9
@@ -11306,8 +11309,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_665
       rect:
         serializedVersion: 2
-        x: 112
-        y: 334
+        x: 120
+        y: 323
         width: 16
         height: 16
       alignment: 9
@@ -11320,8 +11323,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_666
       rect:
         serializedVersion: 2
-        x: 128
-        y: 334
+        x: 14
+        y: 323
         width: 16
         height: 16
       alignment: 9
@@ -11334,8 +11337,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_667
       rect:
         serializedVersion: 2
-        x: 144
-        y: 334
+        x: 153
+        y: 323
         width: 16
         height: 16
       alignment: 9
@@ -11964,8 +11967,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_712
       rect:
         serializedVersion: 2
-        x: 864
-        y: 334
+        x: 867
+        y: 336
         width: 16
         height: 16
       alignment: 9
@@ -11978,8 +11981,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_713
       rect:
         serializedVersion: 2
-        x: 880
-        y: 334
+        x: 883
+        y: 338
         width: 16
         height: 16
       alignment: 9
@@ -12076,8 +12079,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_720
       rect:
         serializedVersion: 2
-        x: 32
-        y: 318
+        x: 16
+        y: 323
         width: 16
         height: 16
       alignment: 9
@@ -12090,8 +12093,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_721
       rect:
         serializedVersion: 2
-        x: 48
-        y: 318
+        x: 12
+        y: 323
         width: 16
         height: 16
       alignment: 9
@@ -12104,8 +12107,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_722
       rect:
         serializedVersion: 2
-        x: 64
-        y: 318
+        x: 9
+        y: 323
         width: 16
         height: 16
       alignment: 9
@@ -12118,8 +12121,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_723
       rect:
         serializedVersion: 2
-        x: 80
-        y: 318
+        x: 85
+        y: 306
         width: 16
         height: 16
       alignment: 9
@@ -12132,8 +12135,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_724
       rect:
         serializedVersion: 2
-        x: 96
-        y: 318
+        x: 102
+        y: 323
         width: 16
         height: 16
       alignment: 9
@@ -12146,8 +12149,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_725
       rect:
         serializedVersion: 2
-        x: 112
-        y: 318
+        x: 119
+        y: 306
         width: 16
         height: 16
       alignment: 9
@@ -12160,8 +12163,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_726
       rect:
         serializedVersion: 2
-        x: 128
-        y: 318
+        x: 136
+        y: 323
         width: 16
         height: 16
       alignment: 9
@@ -12958,8 +12961,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_783
       rect:
         serializedVersion: 2
-        x: 80
-        y: 302
+        x: 85
+        y: 289
         width: 16
         height: 16
       alignment: 9
@@ -12972,8 +12975,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_784
       rect:
         serializedVersion: 2
-        x: 96
-        y: 302
+        x: 120
+        y: 288
         width: 16
         height: 16
       alignment: 9
@@ -12986,10 +12989,10 @@ TextureImporter:
       name: roguelikeSheet_transparent_785
       rect:
         serializedVersion: 2
-        x: 112
-        y: 302
-        width: 16
-        height: 16
+        x: 137
+        y: 307
+        width: 14
+        height: 14
       alignment: 9
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -13000,8 +13003,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_786
       rect:
         serializedVersion: 2
-        x: 128
-        y: 302
+        x: 136
+        y: 288
         width: 16
         height: 16
       alignment: 9
@@ -13014,8 +13017,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_787
       rect:
         serializedVersion: 2
-        x: 144
-        y: 302
+        x: 153
+        y: 289
         width: 16
         height: 16
       alignment: 9
@@ -13798,8 +13801,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_843
       rect:
         serializedVersion: 2
-        x: 80
-        y: 286
+        x: 14
+        y: 272
         width: 16
         height: 16
       alignment: 9
@@ -13812,8 +13815,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_844
       rect:
         serializedVersion: 2
-        x: 96
-        y: 286
+        x: 9
+        y: 272
         width: 16
         height: 16
       alignment: 9
@@ -13826,8 +13829,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_845
       rect:
         serializedVersion: 2
-        x: 112
-        y: 286
+        x: 135
+        y: 272
         width: 16
         height: 16
       alignment: 9
@@ -13840,8 +13843,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_846
       rect:
         serializedVersion: 2
-        x: 128
-        y: 286
+        x: 136
+        y: 221
         width: 16
         height: 16
       alignment: 9
@@ -13854,8 +13857,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_847
       rect:
         serializedVersion: 2
-        x: 144
-        y: 286
+        x: 153
+        y: 272
         width: 16
         height: 16
       alignment: 9
@@ -14638,8 +14641,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_903
       rect:
         serializedVersion: 2
-        x: 79
-        y: 270
+        x: 14
+        y: 272
         width: 16
         height: 16
       alignment: 9
@@ -14652,8 +14655,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_904
       rect:
         serializedVersion: 2
-        x: 96
-        y: 270
+        x: 102
+        y: 272
         width: 16
         height: 16
       alignment: 9
@@ -14666,8 +14669,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_905
       rect:
         serializedVersion: 2
-        x: 112
-        y: 270
+        x: 15
+        y: 221
         width: 16
         height: 16
       alignment: 9
@@ -15409,7 +15412,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 254
+        y: 255
         width: 16
         height: 16
       alignment: 9
@@ -15422,8 +15425,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_959
       rect:
         serializedVersion: 2
-        x: 16
-        y: 254
+        x: 17
+        y: 255
         width: 16
         height: 16
       alignment: 9
@@ -15436,7 +15439,7 @@ TextureImporter:
       name: roguelikeSheet_transparent_960
       rect:
         serializedVersion: 2
-        x: 32
+        x: 34
         y: 254
         width: 16
         height: 16
@@ -15450,7 +15453,7 @@ TextureImporter:
       name: roguelikeSheet_transparent_961
       rect:
         serializedVersion: 2
-        x: 48
+        x: 51
         y: 254
         width: 16
         height: 16
@@ -15464,7 +15467,7 @@ TextureImporter:
       name: roguelikeSheet_transparent_962
       rect:
         serializedVersion: 2
-        x: 64
+        x: 68
         y: 254
         width: 16
         height: 16
@@ -15478,8 +15481,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_963
       rect:
         serializedVersion: 2
-        x: 80
-        y: 254
+        x: 85
+        y: 255
         width: 16
         height: 16
       alignment: 9
@@ -15492,7 +15495,7 @@ TextureImporter:
       name: roguelikeSheet_transparent_964
       rect:
         serializedVersion: 2
-        x: 96
+        x: 136
         y: 254
         width: 16
         height: 16
@@ -15506,7 +15509,7 @@ TextureImporter:
       name: roguelikeSheet_transparent_965
       rect:
         serializedVersion: 2
-        x: 112
+        x: 119
         y: 254
         width: 16
         height: 16
@@ -15520,8 +15523,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_966
       rect:
         serializedVersion: 2
-        x: 128
-        y: 254
+        x: 102
+        y: 255
         width: 16
         height: 16
       alignment: 9
@@ -15534,8 +15537,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_967
       rect:
         serializedVersion: 2
-        x: 144
-        y: 254
+        x: 153
+        y: 255
         width: 16
         height: 16
       alignment: 9
@@ -15548,8 +15551,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_968
       rect:
         serializedVersion: 2
-        x: 160
-        y: 254
+        x: 15
+        y: 221
         width: 16
         height: 16
       alignment: 9
@@ -16262,7 +16265,7 @@ TextureImporter:
       name: roguelikeSheet_transparent_1019
       rect:
         serializedVersion: 2
-        x: 16
+        x: 17
         y: 238
         width: 16
         height: 16
@@ -16276,7 +16279,7 @@ TextureImporter:
       name: roguelikeSheet_transparent_1020
       rect:
         serializedVersion: 2
-        x: 32
+        x: 34
         y: 238
         width: 16
         height: 16
@@ -16290,7 +16293,7 @@ TextureImporter:
       name: roguelikeSheet_transparent_1021
       rect:
         serializedVersion: 2
-        x: 48
+        x: 51
         y: 238
         width: 16
         height: 16
@@ -16304,7 +16307,7 @@ TextureImporter:
       name: roguelikeSheet_transparent_1022
       rect:
         serializedVersion: 2
-        x: 64
+        x: 67
         y: 238
         width: 16
         height: 16
@@ -16318,7 +16321,7 @@ TextureImporter:
       name: roguelikeSheet_transparent_1023
       rect:
         serializedVersion: 2
-        x: 80
+        x: 85
         y: 238
         width: 16
         height: 16
@@ -16332,7 +16335,7 @@ TextureImporter:
       name: roguelikeSheet_transparent_1024
       rect:
         serializedVersion: 2
-        x: 96
+        x: 102
         y: 238
         width: 16
         height: 16
@@ -16346,7 +16349,7 @@ TextureImporter:
       name: roguelikeSheet_transparent_1025
       rect:
         serializedVersion: 2
-        x: 112
+        x: 119
         y: 238
         width: 16
         height: 16
@@ -16360,7 +16363,7 @@ TextureImporter:
       name: roguelikeSheet_transparent_1026
       rect:
         serializedVersion: 2
-        x: 128
+        x: 136
         y: 238
         width: 16
         height: 16
@@ -16374,8 +16377,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1027
       rect:
         serializedVersion: 2
-        x: 144
-        y: 238
+        x: 13
+        y: 222
         width: 16
         height: 16
       alignment: 9
@@ -16388,7 +16391,7 @@ TextureImporter:
       name: roguelikeSheet_transparent_1028
       rect:
         serializedVersion: 2
-        x: 160
+        x: 153
         y: 238
         width: 16
         height: 16
@@ -17088,8 +17091,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1078
       rect:
         serializedVersion: 2
-        x: 32
-        y: 222
+        x: 34
+        y: 221
         width: 16
         height: 16
       alignment: 9
@@ -17102,8 +17105,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1079
       rect:
         serializedVersion: 2
-        x: 48
-        y: 222
+        x: 51
+        y: 221
         width: 16
         height: 16
       alignment: 9
@@ -17116,8 +17119,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1080
       rect:
         serializedVersion: 2
-        x: 64
-        y: 222
+        x: 68
+        y: 221
         width: 16
         height: 16
       alignment: 9
@@ -17130,8 +17133,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1081
       rect:
         serializedVersion: 2
-        x: 80
-        y: 222
+        x: 84
+        y: 221
         width: 16
         height: 16
       alignment: 9
@@ -17144,8 +17147,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1082
       rect:
         serializedVersion: 2
-        x: 96
-        y: 222
+        x: 102
+        y: 221
         width: 16
         height: 16
       alignment: 9
@@ -17158,8 +17161,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1083
       rect:
         serializedVersion: 2
-        x: 112
-        y: 222
+        x: 120
+        y: 221
         width: 16
         height: 16
       alignment: 9
@@ -17172,8 +17175,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1084
       rect:
         serializedVersion: 2
-        x: 128
-        y: 222
+        x: 4
+        y: 207
         width: 16
         height: 16
       alignment: 9
@@ -17186,8 +17189,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1085
       rect:
         serializedVersion: 2
-        x: 144
-        y: 222
+        x: 14
+        y: 221
         width: 16
         height: 16
       alignment: 9
@@ -17200,8 +17203,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1086
       rect:
         serializedVersion: 2
-        x: 160
-        y: 222
+        x: 153
+        y: 221
         width: 16
         height: 16
       alignment: 9
@@ -17970,8 +17973,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1141
       rect:
         serializedVersion: 2
-        x: 80
-        y: 206
+        x: 85
+        y: 204
         width: 16
         height: 16
       alignment: 9
@@ -17984,8 +17987,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1142
       rect:
         serializedVersion: 2
-        x: 96
-        y: 206
+        x: 102
+        y: 204
         width: 16
         height: 16
       alignment: 9
@@ -17998,8 +18001,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1143
       rect:
         serializedVersion: 2
-        x: 112
-        y: 206
+        x: 119
+        y: 204
         width: 16
         height: 16
       alignment: 9
@@ -18012,10 +18015,10 @@ TextureImporter:
       name: roguelikeSheet_transparent_1144
       rect:
         serializedVersion: 2
-        x: 128
-        y: 206
-        width: 16
-        height: 16
+        x: 137
+        y: 205
+        width: 14
+        height: 14
       alignment: 9
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -18026,8 +18029,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1145
       rect:
         serializedVersion: 2
-        x: 144
-        y: 206
+        x: 14
+        y: 221
         width: 16
         height: 16
       alignment: 9
@@ -18040,8 +18043,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1146
       rect:
         serializedVersion: 2
-        x: 160
-        y: 206
+        x: 15
+        y: 220
         width: 16
         height: 16
       alignment: 9
@@ -18782,8 +18785,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1199
       rect:
         serializedVersion: 2
-        x: 80
-        y: 190
+        x: 85
+        y: 187
         width: 16
         height: 16
       alignment: 9
@@ -18796,8 +18799,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1200
       rect:
         serializedVersion: 2
-        x: 96
-        y: 190
+        x: 102
+        y: 187
         width: 16
         height: 16
       alignment: 9
@@ -18810,8 +18813,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1201
       rect:
         serializedVersion: 2
-        x: 112
-        y: 190
+        x: 119
+        y: 187
         width: 16
         height: 16
       alignment: 9
@@ -18824,8 +18827,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1202
       rect:
         serializedVersion: 2
-        x: 128
-        y: 190
+        x: 136
+        y: 187
         width: 16
         height: 16
       alignment: 9
@@ -18838,8 +18841,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1203
       rect:
         serializedVersion: 2
-        x: 144
-        y: 190
+        x: 153
+        y: 187
         width: 16
         height: 16
       alignment: 9
@@ -19622,8 +19625,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1259
       rect:
         serializedVersion: 2
-        x: 80
-        y: 174
+        x: 85
+        y: 170
         width: 16
         height: 16
       alignment: 9
@@ -19636,8 +19639,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1260
       rect:
         serializedVersion: 2
-        x: 96
-        y: 174
+        x: 102
+        y: 170
         width: 16
         height: 16
       alignment: 9
@@ -19650,8 +19653,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1261
       rect:
         serializedVersion: 2
-        x: 112
-        y: 174
+        x: 119
+        y: 170
         width: 16
         height: 16
       alignment: 9
@@ -19664,8 +19667,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1262
       rect:
         serializedVersion: 2
-        x: 128
-        y: 174
+        x: 119
+        y: 153
         width: 16
         height: 16
       alignment: 9
@@ -19678,8 +19681,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1263
       rect:
         serializedVersion: 2
-        x: 144
-        y: 174
+        x: 153
+        y: 170
         width: 16
         height: 16
       alignment: 9
@@ -20462,8 +20465,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1319
       rect:
         serializedVersion: 2
-        x: 80
-        y: 158
+        x: 85
+        y: 153
         width: 16
         height: 16
       alignment: 9
@@ -20476,8 +20479,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1320
       rect:
         serializedVersion: 2
-        x: 96
-        y: 158
+        x: 102
+        y: 153
         width: 16
         height: 16
       alignment: 9
@@ -20504,8 +20507,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1322
       rect:
         serializedVersion: 2
-        x: 128
-        y: 158
+        x: 136
+        y: 153
         width: 16
         height: 16
       alignment: 9
@@ -20518,8 +20521,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1323
       rect:
         serializedVersion: 2
-        x: 144
-        y: 158
+        x: 153
+        y: 153
         width: 16
         height: 16
       alignment: 9
@@ -21302,8 +21305,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1379
       rect:
         serializedVersion: 2
-        x: 80
-        y: 142
+        x: 85
+        y: 136
         width: 16
         height: 16
       alignment: 9
@@ -21316,8 +21319,8 @@ TextureImporter:
       name: roguelikeSheet_transparent_1380
       rect:
         serializedVersion: 2
-        x: 96
-        y: 142
+        x: 102
+        y: 136
         width: 16
         height: 16
       alignment: 9
@@ -28755,7 +28758,7 @@ TextureImporter:
         width: 3
         height: 3
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -28768,6 +28771,48 @@ TextureImporter:
         y: 136
         width: 16
         height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeSheet_transparent_1913
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 396
+        width: 97
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeSheet_transparent_1914
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 387
+        width: 1
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeSheet_transparent_1915
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 361
+        width: 23
+        height: 2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
