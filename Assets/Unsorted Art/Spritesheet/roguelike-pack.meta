@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 306b8a24790bb49a1b18741dffef1562
 folderAsset: yes
 timeCreated: 1526311990
+=======
+guid: 25d8c821b8c2d40e0b4a6554499f9c53
+folderAsset: yes
+timeCreated: 1525100750
+>>>>>>> parent of cb34cc8... Characters
 licenseType: Free
 DefaultImporter:
   externalObjects: {}
