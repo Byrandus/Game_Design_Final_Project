@@ -1,21 +1,21 @@
 fileFormatVersion: 2
-guid: a6c440cfd7f7c4b2d81266ac4aae85da
-timeCreated: 1525791584
+guid: 27b018e491ee14c1aa6905fa7e8b4481
+timeCreated: 1527002209
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: villager1_sprite_sheet_0
-    21300002: villager1_sprite_sheet_1
-    21300004: villager1_sprite_sheet_2
-    21300006: villager1_sprite_sheet_3
-    21300008: villager1_sprite_sheet_4
-    21300010: villager1_sprite_sheet_5
-    21300012: villager1_sprite_sheet_6
-    21300014: villager1_sprite_sheet_7
-    21300016: villager1_sprite_sheet_8
-    21300018: villager1_sprite_sheet_9
-    21300020: villager1_sprite_sheet_10
-    21300022: villager1_sprite_sheet_11
+    21300000: "Villager3_(\u2642)_SpriteSheet_0"
+    21300002: "Villager3_(\u2642)_SpriteSheet_1"
+    21300004: "Villager3_(\u2642)_SpriteSheet_2"
+    21300006: "Villager3_(\u2642)_SpriteSheet_3"
+    21300008: "Villager3_(\u2642)_SpriteSheet_4"
+    21300010: "Villager3_(\u2642)_SpriteSheet_5"
+    21300012: "Villager3_(\u2642)_SpriteSheet_6"
+    21300014: "Villager3_(\u2642)_SpriteSheet_7"
+    21300016: "Villager3_(\u2642)_SpriteSheet_8"
+    21300018: "Villager3_(\u2642)_SpriteSheet_9"
+    21300020: "Villager3_(\u2642)_SpriteSheet_10"
+    21300022: "Villager3_(\u2642)_SpriteSheet_11"
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -55,8 +55,8 @@ TextureImporter:
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 1
-  spritePivot: {x: 0, y: 1}
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaUsage: 1
@@ -92,169 +92,169 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: villager1_sprite_sheet_0
+      name: "Villager3_(\u2642)_SpriteSheet_0"
       rect:
         serializedVersion: 2
         x: 0
-        y: 52
+        y: 51
         width: 16
         height: 16
-      alignment: 1
-      pivot: {x: 0, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: villager1_sprite_sheet_1
+      name: "Villager3_(\u2642)_SpriteSheet_1"
       rect:
         serializedVersion: 2
         x: 17
-        y: 52
+        y: 51
         width: 16
         height: 16
-      alignment: 1
-      pivot: {x: 0, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: villager1_sprite_sheet_2
+      name: "Villager3_(\u2642)_SpriteSheet_2"
       rect:
         serializedVersion: 2
         x: 34
-        y: 52
+        y: 51
         width: 16
         height: 16
-      alignment: 1
-      pivot: {x: 0, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: villager1_sprite_sheet_3
+      name: "Villager3_(\u2642)_SpriteSheet_3"
       rect:
         serializedVersion: 2
         x: 0
-        y: 35
+        y: 34
         width: 16
         height: 16
-      alignment: 1
-      pivot: {x: 0, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: villager1_sprite_sheet_4
+      name: "Villager3_(\u2642)_SpriteSheet_4"
       rect:
         serializedVersion: 2
         x: 17
-        y: 35
+        y: 34
         width: 16
         height: 16
-      alignment: 1
-      pivot: {x: 0, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: villager1_sprite_sheet_5
+      name: "Villager3_(\u2642)_SpriteSheet_5"
       rect:
         serializedVersion: 2
         x: 34
-        y: 35
+        y: 34
         width: 16
         height: 16
-      alignment: 1
-      pivot: {x: 0, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: villager1_sprite_sheet_6
+      name: "Villager3_(\u2642)_SpriteSheet_6"
       rect:
         serializedVersion: 2
         x: 0
-        y: 18
+        y: 17
         width: 16
         height: 16
-      alignment: 1
-      pivot: {x: 0, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: villager1_sprite_sheet_7
+      name: "Villager3_(\u2642)_SpriteSheet_7"
       rect:
         serializedVersion: 2
         x: 17
-        y: 18
+        y: 17
         width: 16
         height: 16
-      alignment: 1
-      pivot: {x: 0, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: villager1_sprite_sheet_8
+      name: "Villager3_(\u2642)_SpriteSheet_8"
       rect:
         serializedVersion: 2
         x: 34
-        y: 18
+        y: 17
         width: 16
         height: 16
-      alignment: 1
-      pivot: {x: 0, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: villager1_sprite_sheet_9
+      name: "Villager3_(\u2642)_SpriteSheet_9"
       rect:
         serializedVersion: 2
         x: 0
-        y: 1
+        y: 0
         width: 16
         height: 16
-      alignment: 1
-      pivot: {x: 0, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: villager1_sprite_sheet_10
+      name: "Villager3_(\u2642)_SpriteSheet_10"
       rect:
         serializedVersion: 2
         x: 17
-        y: 1
+        y: 0
         width: 16
         height: 16
-      alignment: 1
-      pivot: {x: 0, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: villager1_sprite_sheet_11
+      name: "Villager3_(\u2642)_SpriteSheet_11"
       rect:
         serializedVersion: 2
         x: 34
-        y: 1
+        y: 0
         width: 16
         height: 16
-      alignment: 1
-      pivot: {x: 0, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
