@@ -1458,17 +1458,8 @@ Transform:
   m_LocalPosition: {x: 11.424136, y: 2.868477, z: 0.0083735}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-<<<<<<< HEAD
   m_Father: {fileID: 1126415207}
-  m_RootOrder: 35
-=======
-  m_Father: {fileID: 0}
-<<<<<<< HEAD
-  m_RootOrder: 38
->>>>>>> 9f76b2d3746c16ed1cb24c7ddaafc1b94559c236
-=======
   m_RootOrder: 39
->>>>>>> parent of 9f76b2d... that house?
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &258057795
 GameObject:
@@ -1535,8 +1526,6 @@ Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-<<<<<<< HEAD
-<<<<<<< HEAD
   m_GameObject: {fileID: 258057795}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 11.422284, y: -0.032283545, z: 0.0083735}
@@ -1544,22 +1533,13 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1126415207}
   m_RootOrder: 34
-=======
   m_GameObject: {fileID: 261953695}
-=======
-  m_GameObject: {fileID: 258057795}
->>>>>>> parent of 9f76b2d... that house?
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 9.981148, y: -2.9927607, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-<<<<<<< HEAD
   m_RootOrder: 42
->>>>>>> 9f76b2d3746c16ed1cb24c7ddaafc1b94559c236
-=======
-  m_RootOrder: 38
->>>>>>> parent of 9f76b2d... that house?
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &276990988
 GameObject:
@@ -5402,17 +5382,12 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 9f76b2d... that house?
 --- !u!4 &872520763
 Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 872520761}
-<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 11.422284, y: -1.0325229, z: 0.0083735}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -5420,11 +5395,7 @@ Transform:
   m_Father: {fileID: 1126415207}
   m_RootOrder: 36
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &882594872
-=======
 --- !u!1 &898810245
->>>>>>> 9f76b2d3746c16ed1cb24c7ddaafc1b94559c236
-=======
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 9.981148, y: -3.993, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -5433,7 +5404,6 @@ Transform:
   m_RootOrder: 40
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &882594872
->>>>>>> parent of 9f76b2d... that house?
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
@@ -5456,20 +5426,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 882594872}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-<<<<<<< HEAD
-<<<<<<< HEAD
-  m_LocalPosition: {x: 0.040863514, y: 1.0595231, z: -0.0083735}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 811342631}
-  m_RootOrder: 12
-=======
   m_LocalPosition: {x: 5.436, y: 0.975, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1126415207}
   m_RootOrder: 25
->>>>>>> 9f76b2d3746c16ed1cb24c7ddaafc1b94559c236
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &898810247
 SpriteRenderer:
@@ -5525,7 +5486,6 @@ GameObject:
   - component: {fileID: 904925971}
   - component: {fileID: 904925970}
   m_Layer: 0
-<<<<<<< HEAD
   m_Name: roguelikeSheet_transparent_7 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5539,18 +5499,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 898810245}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 5.436, y: 0.975, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1126415207}
-  m_RootOrder: 15
-=======
   m_LocalPosition: {x: 5.442, y: -0.029999971, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1126415207}
   m_RootOrder: 28
->>>>>>> parent of 9f76b2d... that house?
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &882594874
 SpriteRenderer:
@@ -5606,13 +5559,7 @@ GameObject:
   - component: {fileID: 898810246}
   - component: {fileID: 898810247}
   m_Layer: 0
-<<<<<<< HEAD
-=======
->>>>>>> 9f76b2d3746c16ed1cb24c7ddaafc1b94559c236
-  m_Name: roguelikeSheet_transparent_5 (5)
-=======
   m_Name: roguelikeSheet_transparent_7 (6)
->>>>>>> parent of 9f76b2d... that house?
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6779,7 +6726,6 @@ Transform:
   - {fileID: 1862331912}
   - {fileID: 334252576}
   - {fileID: 313828716}
-<<<<<<< HEAD
   - {fileID: 1263171906}
   - {fileID: 363160187}
   - {fileID: 699828286}
@@ -6787,14 +6733,6 @@ Transform:
   - {fileID: 258057797}
   - {fileID: 237967782}
   - {fileID: 872520763}
-  m_Father: {fileID: 979522927}
-  m_RootOrder: 1
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 6290e94... gam.unity revert
-=======
   - {fileID: 2105355643}
   - {fileID: 1298542292}
   - {fileID: 1769800855}
@@ -6814,14 +6752,6 @@ Transform:
   - {fileID: 1470544150}
   m_Father: {fileID: 0}
   m_RootOrder: 4
->>>>>>> 9f76b2d3746c16ed1cb24c7ddaafc1b94559c236
-<<<<<<< HEAD
-=======
->>>>>>> parent of a999365... YES
-=======
->>>>>>> parent of 6290e94... gam.unity revert
-=======
->>>>>>> parent of a999365... YES
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1136571944
 GameObject:
@@ -8178,27 +8108,16 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1419591042}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-<<<<<<< HEAD
-<<<<<<< HEAD
-  m_LocalPosition: {x: 4.0588636, y: 0.07952309, z: -0.0083735}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 811342631}
-  m_RootOrder: 55
-=======
   m_LocalPosition: {x: 11.42, y: -0.05, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1126415207}
   m_RootOrder: 100
->>>>>>> 9f76b2d3746c16ed1cb24c7ddaafc1b94559c236
-=======
   m_LocalPosition: {x: 9.46, y: -1.01, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1126415207}
   m_RootOrder: 89
->>>>>>> parent of 9f76b2d... that house?
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1419591044
 SpriteRenderer:
@@ -8309,8 +8228,6 @@ Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-<<<<<<< HEAD
-<<<<<<< HEAD
   m_GameObject: {fileID: 1433637242}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0.059000015, y: -2.961, z: 0}
@@ -8318,22 +8235,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 811342631}
   m_RootOrder: 74
-=======
-  m_GameObject: {fileID: 1394836444}
-=======
   m_GameObject: {fileID: 1433637242}
->>>>>>> parent of 9f76b2d... that house?
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.019, y: -7.011, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-<<<<<<< HEAD
   m_RootOrder: 49
->>>>>>> 9f76b2d3746c16ed1cb24c7ddaafc1b94559c236
-=======
-  m_RootOrder: 14
->>>>>>> parent of 9f76b2d... that house?
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1434436563
 GameObject:
@@ -8358,27 +8261,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1434436563}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-<<<<<<< HEAD
-<<<<<<< HEAD
-  m_LocalPosition: {x: 3.0788631, y: -2.9344769, z: -0.0083735}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 811342631}
-  m_RootOrder: 45
-=======
   m_LocalPosition: {x: 9.46, y: -1.01, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1126415207}
   m_RootOrder: 89
->>>>>>> 9f76b2d3746c16ed1cb24c7ddaafc1b94559c236
-=======
-  m_LocalPosition: {x: 8.48, y: -4.024, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1126415207}
-  m_RootOrder: 75
->>>>>>> parent of 9f76b2d... that house?
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1434436565
 SpriteRenderer:
@@ -8440,17 +8327,11 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!212 &1433637243
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-<<<<<<< HEAD
-  m_GameObject: {fileID: 1470544149}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6.0988636, y: -2.9344769, z: -0.0083735}
-=======
   m_GameObject: {fileID: 1433637242}
   m_Enabled: 1
   m_CastShadows: 0
@@ -8592,8 +8473,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-=======
->>>>>>> parent of 9f76b2d... that house?
 --- !u!4 &1470544150
 Transform:
   m_ObjectHideFlags: 0
@@ -8602,7 +8481,6 @@ Transform:
   m_GameObject: {fileID: 1470544149}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 11.5, y: -4.024, z: 0}
->>>>>>> 9f76b2d3746c16ed1cb24c7ddaafc1b94559c236
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 811342631}
