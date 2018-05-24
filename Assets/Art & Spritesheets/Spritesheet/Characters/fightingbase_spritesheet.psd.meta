@@ -1,25 +1,25 @@
 fileFormatVersion: 2
-guid: c4bbc0d5f89d542e190490bf22b94ea8
-timeCreated: 1527005130
+guid: faf338035ff4249d28a2f607eaa6cee5
+timeCreated: 1527177398
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: protag_sprite_sheet (1)_0
-    21300002: protag_sprite_sheet (1)_1
-    21300004: protag_sprite_sheet (1)_2
-    21300006: protag_sprite_sheet (1)_3
-    21300008: protag_sprite_sheet (1)_4
-    21300010: protag_sprite_sheet (1)_5
-    21300012: protag_sprite_sheet (1)_6
-    21300014: protag_sprite_sheet (1)_7
-    21300016: protag_sprite_sheet (1)_8
-    21300018: protag_sprite_sheet (1)_9
-    21300020: protag_sprite_sheet (1)_10
-    21300022: protag_sprite_sheet (1)_11
-    21300024: protag_sprite_sheet (1)_12
-    21300026: protag_sprite_sheet (1)_13
-    21300028: protag_sprite_sheet (1)_14
-    21300030: protag_sprite_sheet (1)_15
+    21300000: fightingbase_spritesheet_0
+    21300002: fightingbase_spritesheet_1
+    21300004: fightingbase_spritesheet_2
+    21300006: fightingbase_spritesheet_3
+    21300008: fightingbase_spritesheet_4
+    21300010: fightingbase_spritesheet_5
+    21300012: fightingbase_spritesheet_6
+    21300014: fightingbase_spritesheet_7
+    21300016: fightingbase_spritesheet_8
+    21300018: fightingbase_spritesheet_9
+    21300020: fightingbase_spritesheet_10
+    21300022: fightingbase_spritesheet_11
+    21300024: fightingbase_spritesheet_12
+    21300026: fightingbase_spritesheet_13
+    21300028: fightingbase_spritesheet_14
+    21300030: fightingbase_spritesheet_15
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -73,20 +73,20 @@ TextureImporter:
   textureFormatSet: 0
   platformSettings:
   - buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 128
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
   - buildTarget: Standalone
-    maxTextureSize: 2048
+    maxTextureSize: 128
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -96,7 +96,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: protag_sprite_sheet (1)_0
+      name: fightingbase_spritesheet_0
       rect:
         serializedVersion: 2
         x: 0
@@ -104,13 +104,13 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: protag_sprite_sheet (1)_1
+      name: fightingbase_spritesheet_1
       rect:
         serializedVersion: 2
         x: 17
@@ -118,13 +118,13 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: protag_sprite_sheet (1)_2
+      name: fightingbase_spritesheet_2
       rect:
         serializedVersion: 2
         x: 34
@@ -132,13 +132,13 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: protag_sprite_sheet (1)_3
+      name: fightingbase_spritesheet_3
       rect:
         serializedVersion: 2
         x: 51
@@ -146,13 +146,13 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: protag_sprite_sheet (1)_4
+      name: fightingbase_spritesheet_4
       rect:
         serializedVersion: 2
         x: 0
@@ -160,13 +160,13 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: protag_sprite_sheet (1)_5
+      name: fightingbase_spritesheet_5
       rect:
         serializedVersion: 2
         x: 17
@@ -174,13 +174,13 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: protag_sprite_sheet (1)_6
+      name: fightingbase_spritesheet_6
       rect:
         serializedVersion: 2
         x: 34
@@ -188,13 +188,13 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: protag_sprite_sheet (1)_7
+      name: fightingbase_spritesheet_7
       rect:
         serializedVersion: 2
         x: 51
@@ -202,13 +202,13 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: protag_sprite_sheet (1)_8
+      name: fightingbase_spritesheet_8
       rect:
         serializedVersion: 2
         x: 0
@@ -216,13 +216,13 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: protag_sprite_sheet (1)_9
+      name: fightingbase_spritesheet_9
       rect:
         serializedVersion: 2
         x: 17
@@ -230,13 +230,13 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: protag_sprite_sheet (1)_10
+      name: fightingbase_spritesheet_10
       rect:
         serializedVersion: 2
         x: 34
@@ -244,13 +244,13 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: protag_sprite_sheet (1)_11
+      name: fightingbase_spritesheet_11
       rect:
         serializedVersion: 2
         x: 51
@@ -258,13 +258,13 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: protag_sprite_sheet (1)_12
+      name: fightingbase_spritesheet_12
       rect:
         serializedVersion: 2
         x: 0
@@ -272,13 +272,13 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: protag_sprite_sheet (1)_13
+      name: fightingbase_spritesheet_13
       rect:
         serializedVersion: 2
         x: 17
@@ -286,13 +286,13 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: protag_sprite_sheet (1)_14
+      name: fightingbase_spritesheet_14
       rect:
         serializedVersion: 2
         x: 34
@@ -300,13 +300,13 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: protag_sprite_sheet (1)_15
+      name: fightingbase_spritesheet_15
       rect:
         serializedVersion: 2
         x: 51
@@ -314,7 +314,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
