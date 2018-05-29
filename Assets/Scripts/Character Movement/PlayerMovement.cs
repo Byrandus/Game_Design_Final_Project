@@ -5,14 +5,16 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour {
 
 	public float moveSpeed;
+	public GUIText MoveX;
+	public GUIText MoveY;
+
+	private Animator anim;
 
 
-	// Use this for initialization
 	void Start () {
-
+		anim = GetComponent<Animator> ();
 	}
-
-	// Update is called once per frame
+		
 	void Update () {
 		if (Input.GetAxisRaw ("Horizontal") > 0.5f || Input.GetAxisRaw("Horizontal") < -0.5f ) {
 
@@ -25,5 +27,10 @@ public class PlayerMovement : MonoBehaviour {
 			transform.Translate (new Vector3 (0f, Input.GetAxisRaw ("Vertical") * moveSpeed * Time.deltaTime, 0f));
 
 		}
+
+		anim.SetFloat ("MoveX", Input.GetAxisRaw("Horizontal"));
+		anim.SetFloat ("MoveY", Input.GetAxisRaw ("Vertical"));
+		MoveX.text = ""+Input.GetAxisRaw ("Horizontal");
+		MoveY.text = ""+Input.GetAxisRaw ("Vertical");
 	}
 }
