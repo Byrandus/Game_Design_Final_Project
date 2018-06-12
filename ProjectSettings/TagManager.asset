@@ -42,3 +42,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 1851654887
+    locked: 0
+  - name: Tramplable Plants
+    uniqueID: 1897751613
+    locked: 0
+  - name: Player
+    uniqueID: 2792708385
+    locked: 0
+  - name: Plants/Housing
+    uniqueID: 2465245433
+    locked: 0
+  - name: Roofing
+    uniqueID: 3517932113
+    locked: 0
